@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "favicon"
   gem.homepage = "http://github.com/paladini/favicon"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Favicon Finder for a given URL.}
+  gem.description = %Q{Give an URL and receive a favicon image.}
   gem.email = "fnpaladini@gmail.com"
   gem.authors = ["Fernando Paladini"]
   # dependencies defined in Gemfile
