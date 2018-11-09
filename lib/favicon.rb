@@ -11,7 +11,7 @@
 module Favicon
 
 	public
-		@base_url_google = "http://google.com/s2/favicons?domain="
+		@base_url_google = "https://www.google.com/s2/favicons?domain="
 
 		def self.find(url)
 
